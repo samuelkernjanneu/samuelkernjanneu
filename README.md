@@ -1,11 +1,11 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗
      ║   SYSTEM: K.E.R.N // OPERATOR: samuelkernjanneu                          ║
-     ║   BUILD: v2.0 · NEON-CORE · DARK PROTOCOL                                ║
+     ║   BUILD: v2.1 · NEON-CORE · DARK PROTOCOL                                ║
      ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,35:7B2BFF,70:00F5FF,100:FF003C&text=SAMUEL%20KERN%20JANNEU&fontColor=E6FBFF&fontSize=54&fontAlign=50&fontAlignY=38&desc=//%20developer%20·%20ADS%20@%20PUC%20MINAS%20·%20backend%20%26%20web&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn&stroke=00F5FF&strokeWidth=1" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,35:7B2BFF,70:00F5FF,100:FF003C&text=SAMUEL%20KERN%20JANNEU&fontColor=E6FBFF&fontSize=52&fontAlign=50&fontAlignY=38&desc=//%20developer%20·%20ADS%20@%20PUC%20MINAS%20·%20backend%20%26%20web&descAlign=50&descAlignY=58&descSize=16&animation=fadeIn&stroke=00F5FF&strokeWidth=1" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&random=false&width=820&lines=%3E+BOOTING+K.E.R.N+CORE...;%3E+LOADING+MODULES%3A+C%23+%7C+JS+%7C+SQL...;%3E+ACCESS+GRANTED.+WELCOME%2C+VISITOR.;%3E+STATUS%3A+ONLINE+%E2%97%8F+READY+TO+BUILD" alt="typing" />
 
@@ -22,13 +22,12 @@
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=samuelkernjanneu&label=CONNECTIONS&color=00f5ff&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/samuelkernjanneu?label=FOLLOWERS&style=for-the-badge&color=b026ff&labelColor=0D1117" alt="followers" />
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
 
-## <img src="https://img.shields.io/badge/-%20-0D1117?style=flat-square" height="0"/> `01` ▸ SYSTEM BOOT
+## `01` ▸ SYSTEM BOOT
 
 ```bash
 ┌──────────────────────────────────────────────────────────────┐
@@ -39,7 +38,8 @@
 [ OK ]  loading neural_stack: C# · JavaScript ..... 100%
 [ OK ]  linking database driver: MySQL ............ 100%
 [ OK ]  syncing version control: git · GitHub ..... 100%
-[ OK ]  fetching academic module: ADS @ PUC MINAS .. 100%
+[ OK ]  fetching academic module: ADS @ PUC MINAS . 100%
+[ OK ]  deploying project: CYLA ................... 100%
 [ !! ]  coffee reservoir .......................... LOW
 
 >> all systems nominal. handshake complete.
@@ -60,7 +60,7 @@
 
 Sou **Samuel Kern Janneu**, estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas** e desenvolvedor com foco em **backend com C#** e **desenvolvimento web**.
 
-Gosto de entender o **porquê** das coisas funcionarem — não só fazer funcionar. Por isso invisto tempo em lógica, estrutura de dados, modelagem de banco e código limpo, em vez de sair colando solução pronta.
+Gosto de entender o **porquê** das coisas funcionarem — não só fazer funcionar. Por isso invisto tempo em lógica, estrutura de dados, modelagem de banco e código limpo, em vez de colar solução pronta.
 
 ```csharp
 public class Samuel : IDeveloper
@@ -176,7 +176,7 @@ open_to:   colaborações
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/>
 <sub><b>GitHub</b></sub><br/>
-<sub>Repositórios e CI</sub>
+<sub>Repositórios e deploy</sub>
 </td>
 </tr>
 <tr>
@@ -212,145 +212,116 @@ open_to:   colaborações
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
 
-## `05` ▸ PROJETOS
-
-<!-- ⚠️ TROQUE "repo=" pelos nomes reais dos seus repositórios -->
+## `05` ▸ PROJETO EM DESTAQUE
 
 <div align="center">
 
+<br/>
+
+<img src="https://img.shields.io/badge/PROJETO%20PRINCIPAL-0D1117?style=for-the-badge&logo=shieldsdotio&logoColor=00F5FF&labelColor=0D1117" />
+
+# `CYLA`
+### Control Your Life Again
+
+<sub>**`> aplicação web para monitorar e reduzir vícios e hábitos prejudiciais`**</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/LocalStorage-0D1117?style=for-the-badge&logo=databricks&logoColor=00F5FF" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/13-TELAS-00F5FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/~7.400-LINHAS-B026FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/10-PRESETS%20DE%20VÍCIOS-FF003C?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/0-FRAMEWORKS-39FF14?style=flat-square&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+> **`> ./cyla --about`**
+>
+> Vícios e hábitos prejudiciais afetam milhões de pessoas, mas as ferramentas existentes raramente entregam o trio essencial: **motivação contínua, personalização e privacidade**. O CYLA nasceu dessa lacuna — um app onde recaída é dado, não fracasso, e onde ninguém precisa expor o que está enfrentando para receber apoio.
+
 <table>
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/samuelkernjanneu/projeto-um">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelkernjanneu&repo=projeto-um&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=B026FF&text_color=A9B6C4&hide_border=false&border_color=1F2937" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<br/>
-<sub>Aplicação em C# com persistência em banco relacional.</sub>
+<td width="50%" valign="top">
+
+**`▸ FUNCIONALIDADES`**
+
+- 🔥 **Streaks** — contagem de dias consecutivos sem ceder
+- 📊 **Progresso visual** — gráficos semanais, taxa de sucesso, economia acumulada e análise de gatilhos
+- 🏆 **Conquistas** — marcos desbloqueáveis com contagem para o próximo
+- 💡 **Insights personalizados** — gerados a partir dos registros reais, com fontes (OMS, NIH, APA)
+- 👥 **Ranking entre amigos** — comparação opcional e controlada
+- 🔒 **Privacidade por padrão** — amigos veem a sequência, nunca o vício
+- 🎯 **10 presets de vícios** + categoria personalizada, cada um com abordagem própria
+
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/samuelkernjanneu/projeto-dois">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelkernjanneu&repo=projeto-dois&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=B026FF&text_color=A9B6C4&hide_border=false&border_color=1F2937" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
-<br/>
-<sub>Interface web responsiva com JS puro.</sub>
+<td width="50%" valign="top">
+
+**`▸ ARQUITETURA`**
+
+```js
+cyla/
+├── index.html        // landing page
+├── onboarding.html   // fluxo de entrada
+├── login · registro · criar-conta
+├── home · progresso · habitos
+├── amigos · perfil · convidar
+│
+├── presets.js   // 10 presets + insights
+├── storage.js   // camada de dados (IIFE)
+├── app.js       // lógica de cada página
+├── seed.js      // dados de demonstração
+└── cyla · auth · landing (.css)
+```
+
+<sub>**Vanilla JS puro** — sem frameworks, sem build. O módulo `CYLA` encapsula em IIFE toda a leitura, escrita e cálculo sobre `localStorage`, mantendo a lógica de dados isolada das páginas.</sub>
+
 </td>
 </tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+**`▸ EQUIPE`** · <sub>projeto acadêmico · PUC Minas — ADS</sub>
+
+<table>
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/samuelkernjanneu/projeto-tres">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelkernjanneu&repo=projeto-tres&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=B026FF&text_color=A9B6C4&hide_border=false&border_color=1F2937" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/JSON-0D1117?style=flat-square&logo=json&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
-<br/>
-<sub>Consumo e tratamento de dados via API.</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/samuelkernjanneu/projeto-quatro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelkernjanneu&repo=projeto-quatro&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=B026FF&text_color=A9B6C4&hide_border=false&border_color=1F2937" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
-<br/>
-<sub>Projeto acadêmico — PUC Minas / ADS.</sub>
-</td>
+<td align="center" width="16%"><sub><b>Samuel Kern</b><br/>Janneu</sub></td>
+<td align="center" width="16%"><sub><b>Raphael</b><br/>Lima</sub></td>
+<td align="center" width="16%"><sub><b>Alexandre</b><br/>Soutelo</sub></td>
+<td align="center" width="16%"><sub><b>Luiz</b><br/>Fernando</sub></td>
+<td align="center" width="16%"><sub><b>Rayssa</b><br/>&nbsp;</sub></td>
+<td align="center" width="16%"><sub><b>Charliston</b><br/>&nbsp;</sub></td>
 </tr>
 </table>
 
 <br/>
 
+<a href="https://github.com/samuelkernjanneu/cyla">
+<img src="https://img.shields.io/badge/VER%20CÓDIGO-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
+</a>
+<a href="https://samuelkernjanneu.github.io/cyla/">
+<img src="https://img.shields.io/badge/DEMO%20AO%20VIVO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14" />
+</a>
 <a href="https://github.com/samuelkernjanneu?tab=repositories">
-<img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSITÓRIOS%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/OUTROS%20REPOS-0D1117?style=for-the-badge&logo=git&logoColor=B026FF" />
 </a>
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
 
-## `06` ▸ OBJETIVOS ATUAIS
-
-```yaml
-# ~/kern/roadmap.yml  ·  ciclo atual
-# ────────────────────────────────────────────────────────────
-
-objetivo_principal: "Dominar backend com C# / .NET"
-
-em_progresso:
-  - [ 75% ] ▰▰▰▰▰▰▰▱▱▱  POO avançada em C#
-  - [ 60% ] ▰▰▰▰▰▰▱▱▱▱  Modelagem e otimização em MySQL
-  - [ 45% ] ▰▰▰▰▱▱▱▱▱▱  APIs REST com ASP.NET Core
-  - [ 30% ] ▰▰▰▱▱▱▱▱▱▱  JavaScript moderno (ES6+ / async)
-
-proximo_deploy:
-  - "Publicar um projeto full-stack completo"
-  - "Estudar Entity Framework Core"
-  - "Aprofundar em estruturas de dados e algoritmos"
-  - "Conquistar o primeiro estágio na área"
-
-concluido:
-  - "Fundamentos de lógica de programação"
-  - "HTML5 + CSS3 responsivo"
-  - "Versionamento com Git e GitHub"
-
-# >> execute: dotnet run --project ./carreira
-```
-
-<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
-
-## `07` ▸ TELEMETRIA
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelkernjanneu&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=00F5FF&icon_color=B026FF&text_color=A9B6C4&border_color=1F2937&rank_icon=github" alt="stats" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelkernjanneu&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00F5FF&text_color=A9B6C4&border_color=1F2937" alt="langs" />
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=samuelkernjanneu&theme=dark&background=0D1117&border=1F2937&stroke=1F2937&ring=00F5FF&fire=FF003C&currStreakLabel=00F5FF&sideLabels=A9B6C4&dates=6E7A8A&currStreakNum=E6FBFF&sideNums=E6FBFF" alt="streak" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelkernjanneu&bg_color=0D1117&color=00F5FF&line=B026FF&point=FF003C&area_color=7B2BFF&area=true&hide_border=false&border_color=1F2937&custom_title=ATIVIDADE%20DE%20CONTRIBUIÇÃO%20·%20ÚLTIMOS%2031%20DIAS" alt="activity" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
-
-## `08` ▸ CONQUISTAS
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=samuelkernjanneu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="trophies" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
-
-## `09` ▸ CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelkernjanneu/samuelkernjanneu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelkernjanneu/samuelkernjanneu/output/github-snake.svg" />
-  <img width="100%" alt="snake animation" src="https://raw.githubusercontent.com/samuelkernjanneu/samuelkernjanneu/output/github-snake-dark.svg" />
-</picture>
-
-<sub>`> a serpente consome os commits. os dados alimentam a máquina.`</sub>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" alt="divider" />
-
-## `10` ▸ CANAIS DE COMUNICAÇÃO
+## `06` ▸ CANAIS DE COMUNICAÇÃO
 
 <div align="center">
 
@@ -403,11 +374,15 @@ concluido:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BUILD-PASSING-0D1117?style=flat-square&logo=githubactions&logoColor=00F5FF" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=flat-square&logo=statuspage&logoColor=39FF14" />
 <img src="https://img.shields.io/badge/MADE%20IN-BRASIL-0D1117?style=flat-square&logo=riseup&logoColor=FFD700" />
 <img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-0D1117?style=flat-square&logo=buymeacoffee&logoColor=FF003C" />
 
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FF003C,30:00F5FF,65:7B2BFF,100:0D1117&text=%3C%2F%3E%20end%20of%20transmission&fontColor=E6FBFF&fontSize=24&fontAlign=50&fontAlignY=72&animation=fadeIn" alt="footer" />
+
+</div>
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:FF003C,30:00F5FF,65:7B2BFF,100:0D1117&text=%3C%2F%3E%20end%20of%20transmission&fontColor=E6FBFF&fontSize=24&fontAlign=50&fontAlignY=72&animation=fadeIn" alt="footer" />
