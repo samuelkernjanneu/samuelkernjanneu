@@ -3,9 +3,9 @@
   <!-- INITIALIZAÇÃO DO SISTEMA -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f4c81&height=250&section=header&text=SISTEMA_INICIALIZADO&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Bem-vindo%20ao%20meu%20cyber_space&descAlignY=55&descAlign=50" width="100%" />
 
-  <!-- ANIMAÇÃO DE DIGITAÇÃO -->
+  <!-- ANIMAÇÃO DE DIGITAÇÃO (Corrigida) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=>+Olá,+Mundo!;>+Sou+Samuel+Kern+Janneu;>+Estudante+de+Análise+e+Dev.+de+Sistemas;>+Construindo+o+futuro+com+código..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E+Olá,+Mundo!;%3E+Sou+Samuel+Kern+Janneu;%3E+Estudante+de+Análise+e+Dev.+de+Sistemas;%3E+Construindo+o+futuro+com+código..." alt="Typing SVG" />
   </a>
 
   <br><br>
